@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="your-linkedin-URL">
+    <a href="https://drive.google.com/file/d/1AlIqdL3xs8ACqR4N0AsozY8iHOklJbsL">
       <img src="https://hhru.github.io/api/logos/min-hh-red.png" alt="HH.ru Badge"/>
     </a>
   </div>
